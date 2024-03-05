@@ -1,8 +1,9 @@
-## Anatonelly Tech
+### Anatonelly Tech
 <div>
   <img loading="lazy" src="https://github.com/Anatonelly-Tech/.github/assets/125999178/6e6c967a-0f47-41b5-b585-d794db5e5b0c" width="100%" height="auto" object-fit="cover"/> 
 </div>
-## About Us
+
+### About Us
 📍 Toledo, Paraná - Brazil <br> 📍 Contagem, Minas Gerais - Brazil <br> 📍 Orlando, Florida - EUA <br>
 📅 Create in 2019 <br>
 👤 10+ Collaborators!
